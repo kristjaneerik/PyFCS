@@ -1,0 +1,251 @@
+<Population name="FSC-A, SSC-A subset" annotation="" owningGroup="N1075xIREs_vs_N107mut5xIRES-13-12-08-FCS" expanded="1" sortPriority="10" count="9820"  >
+  <Graph backColor="#FFFFFF" foreColor="#000000" smoothing="0" addEventParam="0" type="Pseudocolor" fast="1" histogramSmoothingCount="0" showOutliers="0" tint="Tinted" showAxes="" drawLargeDots="0" lineWeight="Hairline" scientificNotation="1" smoothingHighResolution="1" contourHighResolution="1" showGates="1" showFreqOnPlots="1" showGateNameOnPlots="1" showMedians="0" showUncomped="0" showGrid="0" lastYAxisName="" rowCount="15994"  >
+    <Axis dimension="x" name="FSC-H" label="" display="" min="0.0" max="0.0"  />
+    <Axis dimension="y" name="FSC-W" label="" display="" auto="Auto"  />
+    <TextTraits font="SansSerif" size="12" name="Labels" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+    <TextTraits font="SansSerif" size="12" name="Graph" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+    <TextTraits font="SansSerif" size="12" name="Numbers" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+    <WindowPosition x="778" y="139" width="382" height="613" displayed="1"  />
+  </Graph >
+  <Gate gating:id="ID24574724"  >
+    <gating:PolygonGate eventsInside="1" annoOffsetX="-17" annoOffsetY="-85" tint="#000000" isTinted="0" lineWeight="Hairline" isFJGate="1" isQuad="0"  >
+      <gating:dimension  >
+        <data-type:parameter data-type:name="FSC-A"  />
+      </gating:dimension >
+      <gating:dimension  >
+        <data-type:parameter data-type:name="SSC-A"  />
+      </gating:dimension >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="80896.0"  />
+        <gating:coordinate data-type:value="970.3427744630466"  />
+      </gating:vertex >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="126976.0"  />
+        <gating:coordinate data-type:value="2090.54013452497"  />
+      </gating:vertex >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="165888.0"  />
+        <gating:coordinate data-type:value="3138.5503331754753"  />
+      </gating:vertex >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="226304.0"  />
+        <gating:coordinate data-type:value="3283.4993979586297"  />
+      </gating:vertex >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="247808.0"  />
+        <gating:coordinate data-type:value="1998.2538872427463"  />
+      </gating:vertex >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="244736.0"  />
+        <gating:coordinate data-type:value="646.3304070095653"  />
+      </gating:vertex >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="219136.0"  />
+        <gating:coordinate data-type:value="300.0"  />
+      </gating:vertex >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="174080.0"  />
+        <gating:coordinate data-type:value="174.51273988123083"  />
+      </gating:vertex >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="157696.0"  />
+        <gating:coordinate data-type:value="174.51273988123083"  />
+      </gating:vertex >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="114688.0"  />
+        <gating:coordinate data-type:value="139.2476650083833"  />
+      </gating:vertex >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="92160.0"  />
+        <gating:coordinate data-type:value="166.80892898537476"  />
+      </gating:vertex >
+      <gating:vertex  >
+        <gating:coordinate data-type:value="75776.0"  />
+        <gating:coordinate data-type:value="218.7088478576685"  />
+      </gating:vertex >
+    </gating:PolygonGate >
+  </Gate >
+  <Subpopulations  >
+    <Population name="FSC-H, FSC-W subset" annotation="" owningGroup="N1075xIREs_vs_N107mut5xIRES-13-12-08-FCS" expanded="1" sortPriority="10" count="9724"  >
+      <Graph backColor="#FFFFFF" foreColor="#000000" smoothing="0" addEventParam="0" type="Pseudocolor" fast="1" histogramSmoothingCount="0" showOutliers="0" tint="Tinted" showAxes="" drawLargeDots="0" lineWeight="Hairline" scientificNotation="1" smoothingHighResolution="1" contourHighResolution="1" showGates="1" showFreqOnPlots="1" showGateNameOnPlots="1" showMedians="0" showUncomped="0" showGrid="0" lastYAxisName="" rowCount="15994"  >
+        <Axis dimension="x" name="SSC-H" label="" display="" min="0.0" max="0.0"  />
+        <Axis dimension="y" name="SSC-W" label="" display="" auto="Auto"  />
+        <TextTraits font="SansSerif" size="12" name="Labels" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+        <TextTraits font="SansSerif" size="12" name="Graph" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+        <TextTraits font="SansSerif" size="12" name="Numbers" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+        <WindowPosition x="1253" y="50" width="382" height="569" displayed="1"  />
+      </Graph >
+      <Gate gating:id="ID13158105" gating:parent_id="ID24574724"  >
+        <gating:PolygonGate eventsInside="1" annoOffsetX="70" annoOffsetY="-66" tint="#000000" isTinted="0" lineWeight="Hairline" isFJGate="1" isQuad="0"  >
+          <gating:dimension  >
+            <data-type:parameter data-type:name="FSC-H"  />
+          </gating:dimension >
+          <gating:dimension  >
+            <data-type:parameter data-type:name="FSC-W"  />
+          </gating:dimension >
+          <gating:vertex  >
+            <gating:coordinate data-type:value="56320.0"  />
+            <gating:coordinate data-type:value="115184.48484848485"  />
+          </gating:vertex >
+          <gating:vertex  >
+            <gating:coordinate data-type:value="101376.0"  />
+            <gating:coordinate data-type:value="140339.71717171717"  />
+          </gating:vertex >
+          <gating:vertex  >
+            <gating:coordinate data-type:value="121856.0"  />
+            <gating:coordinate data-type:value="136367.8383838384"  />
+          </gating:vertex >
+          <gating:vertex  >
+            <gating:coordinate data-type:value="144384.0"  />
+            <gating:coordinate data-type:value="119156.36363636363"  />
+          </gating:vertex >
+          <gating:vertex  >
+            <gating:coordinate data-type:value="144384.0"  />
+            <gating:coordinate data-type:value="90029.25252525252"  />
+          </gating:vertex >
+          <gating:vertex  >
+            <gating:coordinate data-type:value="96256.0"  />
+            <gating:coordinate data-type:value="79437.57575757576"  />
+          </gating:vertex >
+          <gating:vertex  >
+            <gating:coordinate data-type:value="60416.0"  />
+            <gating:coordinate data-type:value="67521.93939393939"  />
+          </gating:vertex >
+          <gating:vertex  >
+            <gating:coordinate data-type:value="50176.0"  />
+            <gating:coordinate data-type:value="94001.1313131313"  />
+          </gating:vertex >
+        </gating:PolygonGate >
+      </Gate >
+      <Subpopulations  >
+        <Population name="SSC-H, SSC-W subset" annotation="" owningGroup="N1075xIREs_vs_N107mut5xIRES-13-12-08-FCS" expanded="1" sortPriority="10" count="9658"  >
+          <Graph backColor="#FFFFFF" foreColor="#000000" smoothing="0" addEventParam="0" type="Pseudocolor" fast="1" histogramSmoothingCount="0" showOutliers="0" tint="Tinted" showAxes="" drawLargeDots="0" lineWeight="Hairline" scientificNotation="1" smoothingHighResolution="1" contourHighResolution="1" showGates="1" showFreqOnPlots="1" showGateNameOnPlots="1" showMedians="0" showUncomped="0" showGrid="0" lastYAxisName="" rowCount="15994"  >
+            <Axis dimension="x" name="Pacific Blue-A" label="" display="" min="0.0" max="0.0"  />
+            <Axis dimension="y" name="FITC-A" label="" display="" auto="Auto"  />
+            <TextTraits font="SansSerif" size="12" name="Labels" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+            <TextTraits font="SansSerif" size="12" name="Graph" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+            <TextTraits font="SansSerif" size="12" name="Numbers" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+          </Graph >
+          <Gate gating:id="ID1536057" gating:parent_id="ID13158105"  >
+            <gating:PolygonGate eventsInside="1" annoOffsetX="54" annoOffsetY="-125" tint="#000000" isTinted="0" lineWeight="Hairline" isFJGate="1" isQuad="0"  >
+              <gating:dimension  >
+                <data-type:parameter data-type:name="SSC-H"  />
+              </gating:dimension >
+              <gating:dimension  >
+                <data-type:parameter data-type:name="SSC-W"  />
+              </gating:dimension >
+              <gating:vertex  >
+                <gating:coordinate data-type:value="119.8626167684966"  />
+                <gating:coordinate data-type:value="99717.52156862745"  />
+              </gating:vertex >
+              <gating:vertex  >
+                <gating:coordinate data-type:value="368.9478676967196"  />
+                <gating:coordinate data-type:value="116165.7725490196"  />
+              </gating:vertex >
+              <gating:vertex  >
+                <gating:coordinate data-type:value="1085.7129168756032"  />
+                <gating:coordinate data-type:value="108969.66274509804"  />
+              </gating:vertex >
+              <gating:vertex  >
+                <gating:coordinate data-type:value="1862.4730821573762"  />
+                <gating:coordinate data-type:value="86353.31764705882"  />
+              </gating:vertex >
+              <gating:vertex  >
+                <gating:coordinate data-type:value="1135.654574777589"  />
+                <gating:coordinate data-type:value="67849.03529411765"  />
+              </gating:vertex >
+              <gating:vertex  >
+                <gating:coordinate data-type:value="553.0268977227331"  />
+                <gating:coordinate data-type:value="61680.94117647059"  />
+              </gating:vertex >
+              <gating:vertex  >
+                <gating:coordinate data-type:value="308.20523045379076"  />
+                <gating:coordinate data-type:value="55512.84705882353"  />
+              </gating:vertex >
+              <gating:vertex  >
+                <gating:coordinate data-type:value="114.59152647850995"  />
+                <gating:coordinate data-type:value="58596.89411764706"  />
+              </gating:vertex >
+              <gating:vertex  >
+                <gating:coordinate data-type:value="87.4913272215936"  />
+                <gating:coordinate data-type:value="88409.34901960785"  />
+              </gating:vertex >
+            </gating:PolygonGate >
+          </Gate >
+          <Subpopulations  >
+            <Statistic name="Mean" annotation="" owningGroup="N1075xIREs_vs_N107mut5xIRES-13-12-08-FCS" expanded="1" sortPriority="5" id="FITC-A" value="23307.916015625"  />
+            <Statistic name="Mean" annotation="" owningGroup="N1075xIREs_vs_N107mut5xIRES-13-12-08-FCS" expanded="1" sortPriority="5" id="Pacific Blue-A" value="5065.507324219"  />
+            <Population name="FITC-A+" annotation="" owningGroup="N1075xIREs_vs_N107mut5xIRES-13-12-08-FCS" expanded="1" sortPriority="10" count="6613"  >
+              <Graph backColor="#FFFFFF" foreColor="#000000" smoothing="1" addEventParam="0" type="Histogram" fast="1" histogramSmoothingCount="0" showOutliers="0" tint="Tinted" showAxes="" drawLargeDots="0" lineWeight="Hairline" scientificNotation="1" smoothingHighResolution="1" contourHighResolution="1" showGates="1" showFreqOnPlots="1" showGateNameOnPlots="1" showMedians="0" showUncomped="0" showGrid="0" lastYAxisName="" rowCount="15994"  >
+                <Axis dimension="x" name="FITC-A" label="" display="" min="0.0" max="0.0"  />
+                <Axis dimension="y" name="Histogram" label="" display="" auto="Auto"  />
+                <TextTraits font="SansSerif" size="12" name="Labels" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+                <TextTraits font="SansSerif" size="12" name="Graph" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+                <TextTraits font="SansSerif" size="12" name="Numbers" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+              </Graph >
+              <Gate gating:id="ID11300970" gating:parent_id="ID1536057"  >
+                <gating:RectangleGate eventsInside="1" annoOffsetX="0" annoOffsetY="0" tint="#000000" isTinted="0" lineWeight="Hairline" isFJGate="1"  >
+                <gating:dimension gating:min="84.02121" yRatio="0.8508529199008986"  >
+                <data-type:parameter data-type:name="FITC-A"  />
+                </gating:dimension >
+                </gating:RectangleGate >
+              </Gate >
+            </Population >
+            <Population name="FITC-A-" annotation="" owningGroup="N1075xIREs_vs_N107mut5xIRES-13-12-08-FCS" expanded="1" sortPriority="10" count="3045"  >
+              <Graph backColor="#FFFFFF" foreColor="#000000" smoothing="1" addEventParam="0" type="Histogram" fast="1" histogramSmoothingCount="0" showOutliers="0" tint="Tinted" showAxes="" drawLargeDots="0" lineWeight="Hairline" scientificNotation="1" smoothingHighResolution="1" contourHighResolution="1" showGates="1" showFreqOnPlots="1" showGateNameOnPlots="1" showMedians="0" showUncomped="0" showGrid="0" lastYAxisName="" rowCount="15994"  >
+                <Axis dimension="x" name="FITC-A" label="" display="" min="0.0" max="0.0"  />
+                <Axis dimension="y" name="Histogram" label="" display="" auto="Auto"  />
+                <TextTraits font="SansSerif" size="12" name="Labels" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+                <TextTraits font="SansSerif" size="12" name="Graph" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+                <TextTraits font="SansSerif" size="12" name="Numbers" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+              </Graph >
+              <Gate gating:id="ID17320121" gating:parent_id="ID1536057"  >
+                <gating:RectangleGate eventsInside="1" annoOffsetX="0" annoOffsetY="0" tint="#000000" isTinted="0" lineWeight="Hairline" isFJGate="1"  >
+                <gating:dimension gating:max="84.02121" yRatio="0.8008529199008986"  >
+                <data-type:parameter data-type:name="FITC-A"  />
+                </gating:dimension >
+                </gating:RectangleGate >
+              </Gate >
+            </Population >
+            <Population name="Pacific Blue-A+" annotation="" owningGroup="N1075xIREs_vs_N107mut5xIRES-13-12-08-FCS" expanded="1" sortPriority="10" count="5345"  >
+              <Graph backColor="#FFFFFF" foreColor="#000000" smoothing="1" addEventParam="0" type="Histogram" fast="1" histogramSmoothingCount="0" showOutliers="0" tint="Tinted" showAxes="" drawLargeDots="0" lineWeight="Hairline" scientificNotation="1" smoothingHighResolution="1" contourHighResolution="1" showGates="1" showFreqOnPlots="1" showGateNameOnPlots="1" showMedians="0" showUncomped="0" showGrid="0" lastYAxisName="" rowCount="15994"  >
+                <Axis dimension="x" name="Pacific Blue-A" label="" display="" min="0.0" max="0.0"  />
+                <Axis dimension="y" name="Histogram" label="" display="" auto="Auto"  />
+                <TextTraits font="SansSerif" size="12" name="Labels" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+                <TextTraits font="SansSerif" size="12" name="Graph" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+                <TextTraits font="SansSerif" size="12" name="Numbers" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+              </Graph >
+              <Gate gating:id="ID14591676" gating:parent_id="ID1536057"  >
+                <gating:RectangleGate eventsInside="1" annoOffsetX="0" annoOffsetY="0" tint="#000000" isTinted="0" lineWeight="Hairline" isFJGate="1"  >
+                <gating:dimension gating:min="178.89241" yRatio="0.9366973710924984"  >
+                <data-type:parameter data-type:name="Pacific Blue-A"  />
+                </gating:dimension >
+                </gating:RectangleGate >
+              </Gate >
+              <Subpopulations  >
+                <Statistic name="Mean" annotation="" owningGroup="N1075xIREs_vs_N107mut5xIRES-13-12-08-FCS" expanded="1" sortPriority="5" id="FITC-A" value="41829.8359375"  />
+              </Subpopulations >
+            </Population >
+            <Population name="Pacific Blue-A-" annotation="" owningGroup="N1075xIREs_vs_N107mut5xIRES-13-12-08-FCS" expanded="1" sortPriority="10" count="4313"  >
+              <Graph backColor="#FFFFFF" foreColor="#000000" smoothing="1" addEventParam="0" type="Histogram" fast="1" histogramSmoothingCount="0" showOutliers="0" tint="Tinted" showAxes="" drawLargeDots="0" lineWeight="Hairline" scientificNotation="1" smoothingHighResolution="1" contourHighResolution="1" showGates="1" showFreqOnPlots="1" showGateNameOnPlots="1" showMedians="0" showUncomped="0" showGrid="0" lastYAxisName="" rowCount="15994"  >
+                <Axis dimension="x" name="Pacific Blue-A" label="" display="" min="0.0" max="0.0"  />
+                <Axis dimension="y" name="Histogram" label="" display="" auto="Auto"  />
+                <TextTraits font="SansSerif" size="12" name="Labels" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+                <TextTraits font="SansSerif" size="12" name="Graph" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+                <TextTraits font="SansSerif" size="12" name="Numbers" style="plain" color="#000000" background="#FFFFFF" just="left"  />
+              </Graph >
+              <Gate gating:id="ID26517993" gating:parent_id="ID1536057"  >
+                <gating:RectangleGate eventsInside="1" annoOffsetX="0" annoOffsetY="0" tint="#000000" isTinted="0" lineWeight="Hairline" isFJGate="1"  >
+                <gating:dimension gating:max="178.89241" yRatio="0.8866973710924984"  >
+                <data-type:parameter data-type:name="Pacific Blue-A"  />
+                </gating:dimension >
+                </gating:RectangleGate >
+              </Gate >
+            </Population >
+          </Subpopulations >
+        </Population >
+      </Subpopulations >
+    </Population >
+  </Subpopulations >
+</Population >
+
